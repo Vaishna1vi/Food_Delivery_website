@@ -220,6 +220,10 @@ footer {
     padding: 9px 20px;
 }
 
+footer .center span{
+    color: blueviolet;
+}
+
 /* Utility Classes */
 .h-primary {
     /* font-family: 'Bree Serif', serif; */
